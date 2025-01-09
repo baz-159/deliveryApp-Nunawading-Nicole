@@ -3967,14 +3967,6 @@
         "Friday": false,
         "Saturday": false
     },
-    "SAINT ALBANS": {
-        "Monday": false,
-        "Tuesday": false,
-        "Wednesday": true,
-        "Thursday": false,
-        "Friday": false,
-        "Saturday": false
-    },
     "SAN REMO": {
         "Monday": false,
         "Tuesday": false,
@@ -4215,7 +4207,7 @@
         "Friday": true,
         "Saturday": false
     },
-    "ST ALBANS": {
+    "SAINT ALBANS": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": true,
@@ -4223,7 +4215,15 @@
         "Friday": false,
         "Saturday": false
     },
-    "ST ANDREWS BEACH": {
+    "SAINT ANDREWS BEACH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SAINT ANDREWS": {
         "Monday": true,
         "Tuesday": false,
         "Wednesday": false,
@@ -4231,15 +4231,7 @@
         "Friday": false,
         "Saturday": false
     },
-    "ST ANDREWS/KINGLAKE": {
-        "Monday": true,
-        "Tuesday": false,
-        "Wednesday": false,
-        "Thursday": false,
-        "Friday": false,
-        "Saturday": false
-    },
-    "ST HELENA": {
+    "SAINT HELENA": {
         "Monday": true,
         "Tuesday": false,
         "Wednesday": true,
