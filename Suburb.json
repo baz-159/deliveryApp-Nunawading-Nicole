@@ -4487,14 +4487,6 @@
         "Friday": false,
         "Saturday": false
     },
-    "TEST": {
-        "Monday": true,
-        "Tuesday": true,
-        "Wednesday": true,
-        "Thursday": true,
-        "Friday": true,
-        "Saturday": true
-    },
     "THE BASIN": {
         "Monday": true,
         "Tuesday": true,
